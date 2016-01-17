@@ -12,3 +12,10 @@ Todo:
 * Better form validation
 * Add animation for better user experience
 * Try auto fill location info using device/browser location service
+
+Learn:
+* Gulp
+  * Gulp watch
+  * gulp-sass
+  * Browser-Sync
+* sass
